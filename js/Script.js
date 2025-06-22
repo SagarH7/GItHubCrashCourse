@@ -96,3 +96,6 @@ document.addEventListener('DOMContentLoaded', function () {
         ].map(Number);
     }
 });
+//some comments for test
+// This is a test comment to check if the code is working properly
+// Another comment to ensure the script is functioning as expected
