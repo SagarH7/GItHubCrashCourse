@@ -6,5 +6,3 @@ my changes are done
 my sentence is complete/i will be removing this file for practice
 this is a dummy file Commentgit
 //this is a dummy file Commentgit
-import React from 'react';
-some changes i am making here
